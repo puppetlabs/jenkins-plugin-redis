@@ -3,12 +3,12 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>1.460</version><!-- which version of Jenkins is this plugin built against? -->
+    <version>1.459</version><!-- which version of Jenkins is this plugin built against? -->
   </parent>
 
   <groupId>com.puppetlabs.jenkins</groupId>
   <artifactId>redis</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1</version>
   <packaging>hpi</packaging>
 
   <dependencies>
